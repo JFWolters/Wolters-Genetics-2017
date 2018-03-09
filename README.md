@@ -1,4 +1,4 @@
-# Wolters-Genetics-2017
+# Wolters-Genetics-2018
 
 consolidate_data.R was used to consolidate all data from the analyzed images into a single file which included all necessary identifying information for each individual spot including Strain ID, growth conditions, and time points.
 
